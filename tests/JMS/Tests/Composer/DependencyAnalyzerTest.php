@@ -141,7 +141,7 @@ COMPOSER
 
     private function install($dir)
     {
-        $proc = new Process('php '.__DIR__.'/../../../../vendor/bin/composer install --dev', $dir);
+        $proc = new Process('php '.__DIR__.'/../../../../vendor/composer/composer/bin/composer install', $dir);
         if (0 !== $proc->run()) {
             throw new ProcessFailedException($proc);
         }
