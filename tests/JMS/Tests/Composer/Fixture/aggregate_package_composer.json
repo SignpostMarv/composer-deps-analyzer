@@ -11,7 +11,7 @@
                 },
                 "source": {
                     "type": "git",
-                    "url": "git://github.com/schmittjoh/composer-deps-analyzer",
+                    "url": "https://github.com/schmittjoh/composer-deps-analyzer",
                     "reference": "master"
                 }
             }
@@ -23,7 +23,7 @@
                 "version": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "git://github.com/schmittjoh/composer-deps-analyzer",
+                    "url": "https://github.com/schmittjoh/composer-deps-analyzer",
                     "reference": "master"
                 }
             }
@@ -35,7 +35,7 @@
                 "version": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "git://github.com/schmittjoh/composer-deps-analyzer",
+                    "url": "https://github.com/schmittjoh/composer-deps-analyzer",
                     "reference": "master"
                 }
             }
@@ -50,7 +50,7 @@
                 },
                 "source": {
                     "type": "git",
-                    "url": "git://github.com/schmittjoh/composer-deps-analyzer",
+                    "url": "https://github.com/schmittjoh/composer-deps-analyzer",
                     "reference": "master"
                 }
             }
