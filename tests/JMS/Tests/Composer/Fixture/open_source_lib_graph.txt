@@ -20,6 +20,6 @@ Version: <null>
 
 symfony/filesystem
 ==================
-Version: v2.0.16
-Source-Reference: ba54074358bce2daff738614b435d1ca35b27e8a
+Version: v2.1.0
+Source-Reference: 57c95ad66231e75b63643df2bd5f6a8bc5603bef
 -> php
