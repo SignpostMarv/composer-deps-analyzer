@@ -19,8 +19,9 @@
     },
 
     "require-dev": {
-        "composer/composer": "dev-master",
-        "symfony/filesystem": "2.1.*",
-        "symfony/process": "2.1.*"
+        "symfony/filesystem": "^3.2",
+        "symfony/process": "^3.2",
+        "phpunit/phpunit": "^5.0",
+        "composer/composer": "dev-master"
     }
 }
